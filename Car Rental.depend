@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1578893610 source:f:\project\2020\car rental\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1578893610 f:\project\2020\car rental\conio2.h
+	<conio.h>
+	<windows.h>
+
+1581403061 source:f:\project\2020\car rental\main.c
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"conio2.h"
+	<string.h>
+	<time.h>
+
+1581400185 f:\project\2020\car rental\car.h
+	<time.h>
+
+1581405889 source:f:\project\2020\car rental\car.c
+	<stdio.h>
+	"car.h"
+	<string.h>
+	"conio2.h"
+	<time.h>
+
+1578893612 source:c:\users\sudhakar\desktop\car rental\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1578893612 c:\users\sudhakar\desktop\car rental\conio2.h
+	<conio.h>
+	<windows.h>
+
+1581917636 source:c:\users\sudhakar\desktop\car rental\main.c
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"conio2.h"
+	<string.h>
+	<time.h>
+
+1581917630 c:\users\sudhakar\desktop\car rental\car.h
+	<time.h>
+
+1583151811 source:c:\users\sudhakar\desktop\car rental\car.c
+	<stdio.h>
+	"car.h"
+	<string.h>
+	"conio2.h"
+	<time.h>
+
+1582041448 source:d:\car rental\car.c
+	<stdio.h>
+	"car.h"
+	<string.h>
+	"conio2.h"
+	<time.h>
+
+1581966230 d:\car rental\car.h
+	<time.h>
+
+1578942212 d:\car rental\conio2.h
+	<conio.h>
+	<windows.h>
+
+1578942212 source:d:\car rental\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1581966236 source:d:\car rental\main.c
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"conio2.h"
+	<string.h>
+	<time.h>
+
+1581992848 source:g:\car rental\car.c
+	<stdio.h>
+	"car.h"
+	<string.h>
+	"conio2.h"
+	<time.h>
+
+1581917630 g:\car rental\car.h
+	<time.h>
+
+1578893612 g:\car rental\conio2.h
+	<conio.h>
+	<windows.h>
+
+1578893612 source:g:\car rental\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1581917636 source:g:\car rental\main.c
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"conio2.h"
+	<string.h>
+	<time.h>
+
